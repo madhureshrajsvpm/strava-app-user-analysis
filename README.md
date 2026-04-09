@@ -20,9 +20,6 @@ This project involves a deep-dive analysis of fitness tracker data (Fitbit) to u
 ### Executive Overview
 ![Executive Overview](./images/Executive%20Overview.png)
 
-### Sleep & Health Metrics
-![Sleep Analysis](./images/Sleep%20Analysis.png)
-
 ## Recommendations
 * **Automated Prompts:** Implement "Inactivity Alerts" during peak sedentary windows (10 AM – 2 PM) to encourage movement.
 * **Personalized Sleep Coaching:** Develop in-app notifications based on the identified correlation between late-day high intensity and reduced sleep quality.
